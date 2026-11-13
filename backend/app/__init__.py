@@ -1,0 +1,1 @@
+"""SHOPNOVA backend application package."""
